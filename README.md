@@ -9,3 +9,5 @@ An introduction to Kolmogorov complexity and its applications
 Quantum Computational Number Theory
 
 https://www.goodreads.com/list/show/5870.Best_Non_Fiction_Books_About_Books_and_Reading
+
+Quantum Information: An Introduction to Basic Theoretical Concepts and

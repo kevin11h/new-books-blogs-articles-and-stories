@@ -11,3 +11,5 @@ Quantum Computational Number Theory
 https://www.goodreads.com/list/show/5870.Best_Non_Fiction_Books_About_Books_and_Reading
 
 Quantum Information: An Introduction to Basic Theoretical Concepts and
+
+https://www.goodreads.com/book/similar/41951431-ten-time-management-choices-that-can-change-your-life

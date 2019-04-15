@@ -13,3 +13,5 @@ https://www.goodreads.com/list/show/5870.Best_Non_Fiction_Books_About_Books_and_
 Quantum Information: An Introduction to Basic Theoretical Concepts and
 
 https://www.goodreads.com/book/similar/41951431-ten-time-management-choices-that-can-change-your-life
+
+https://www.goodreads.com/list/show/116305.IT_books_by_Female_Authors
